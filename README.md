@@ -10,7 +10,7 @@ This is an implementation of a Flutter app that tracks your personal expenses.
 
 ## While adding expenses :
 
-<img src="app_screenshots/while_adding_expenses.png" width=400>
+<img src="app_screenshots/while_adding%20expenses.png" width=400>
 
 ## After adding expenses :
 
